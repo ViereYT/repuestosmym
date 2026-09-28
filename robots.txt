@@ -1,0 +1,3 @@
+# Vista previa: cerrada a los buscadores (NOINDEX)
+User-agent: *
+Disallow: /

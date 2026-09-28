@@ -1,0 +1,43 @@
+# Repuestos MyM SRL
+
+> Repuestos y accesorios para camiones Scania, Mercedes-Benz, carretas y más, en Concepción, Paraguay. Prensado de mangueras hidráulicas. Consultá por WhatsApp.
+
+Casa de repuestos para camiones en Concepción, Paraguay (HHM8+9V2, Concepción 010112). Teléfono y WhatsApp +595981712946. Horario: lunes a viernes 07:00-17:30, sábados 07:00-12:00. Catálogo sin precios: 8900 artículos en 17 rubros, actualizado el 2026-09-26. Sitio en español (/es/) y portugués (/pt/).
+
+## Páginas principales
+
+- [Inicio](https://viereyt.github.io/repuestosmym/es/): presentación y buscador del catálogo
+- [Quiénes somos](https://viereyt.github.io/repuestosmym/es/empresa/): la empresa, desde 1996, marcas que atiende
+- [Prensado de mangueras hidráulicas en Concepción](https://viereyt.github.io/repuestosmym/es/prensado/): servicio de prensado de mangueras hidráulicas
+- [Contacto](https://viereyt.github.io/repuestosmym/es/contacto/): dirección, mapa, horario, WhatsApp
+- [Preguntas frecuentes](https://viereyt.github.io/repuestosmym/es/preguntas/)
+- [Catálogo por rubros](https://viereyt.github.io/repuestosmym/es/rubros/)
+
+## Rubros del catálogo
+
+- [Motor e inyección](https://viereyt.github.io/repuestosmym/es/rubros/motor/): 714 artículos. Juntas, casquillos, kits de motor, embrague, caja, diferencial, cardán y rulemanes.
+- [Refrigeración y correas](https://viereyt.github.io/repuestosmym/es/rubros/refrigeracion/): 458 artículos. Radiadores, mangueras de radiador, bombas de agua, termostatos y reservorios.
+- [Transmisión y embrague](https://viereyt.github.io/repuestosmym/es/rubros/transmision/): 842 artículos
+- [Suspensión y dirección](https://viereyt.github.io/repuestosmym/es/rubros/suspension/): 892 artículos. Elásticos, bujes, amortiguadores, grampas, pernos, terminales y barras.
+- [Frenos](https://viereyt.github.io/repuestosmym/es/rubros/frenos/): 555 artículos. Pulmones, válvulas, reparos, catracas, tambores, discos y pastillas.
+- [Aire comprimido y válvulas](https://viereyt.github.io/repuestosmym/es/rubros/aire/): 711 artículos
+- [Ejes, mazas y rulemanes](https://viereyt.github.io/repuestosmym/es/rubros/ejes/): 850 artículos
+- [Eléctrico e iluminación](https://viereyt.github.io/repuestosmym/es/rubros/electrico/): 1031 artículos. Faros, focos LED, relés, alternadores, arranques, baterías, sensores y cables.
+- [Cabina y carrocería](https://viereyt.github.io/repuestosmym/es/rubros/cabina/): 628 artículos. Espejos, manijas, alza vidrios, guardabarros, tapas, seguros y accesorios.
+- [Escape](https://viereyt.github.io/repuestosmym/es/rubros/escape/): 136 artículos
+- [Filtros y lubricantes](https://viereyt.github.io/repuestosmym/es/rubros/filtros/): 580 artículos. Filtros de aire, aceite, combustible, agua e hidráulicos, y aceites.
+- [Mangueras hidráulicas y prensado](https://viereyt.github.io/repuestosmym/es/rubros/mangueras/): 394 artículos. Prensado de mangueras hidráulicas a medida, mangueras de aire y de goma, uniones, niples y conexiones.
+- [Bulonería y fijaciones](https://viereyt.github.io/repuestosmym/es/rubros/fijaciones/): 659 artículos. Bulones, tuercas, arandelas, prisioneros, remaches, herramientas y ferretería.
+- [Carretas y acoplados](https://viereyt.github.io/repuestosmym/es/rubros/carretas/): 75 artículos. Mazas, tambores, rulemanes, ejes, patas de apoyo, quinta rueda y luces para carreta.
+- [Herramientas y ferretería](https://viereyt.github.io/repuestosmym/es/rubros/herramientas/): 203 artículos
+- [Accesorios y varios](https://viereyt.github.io/repuestosmym/es/rubros/accesorios/): 146 artículos
+- [Otros repuestos](https://viereyt.github.io/repuestosmym/es/rubros/otros/): 26 artículos
+
+## Índices
+
+- [Sitemap](https://viereyt.github.io/repuestosmym/sitemap.xml): todas las páginas de artículo, una por código, en /es/articulo/<código>/ y /pt/articulo/<código>/
+- [Catálogo en JSON](https://viereyt.github.io/repuestosmym/catalogo-es.json): pares [código, nombre] de todos los artículos
+
+## Em português
+
+- [Início](https://viereyt.github.io/repuestosmym/pt/) · [Catálogo](https://viereyt.github.io/repuestosmym/pt/rubros/) · [Contato](https://viereyt.github.io/repuestosmym/pt/contacto/)
