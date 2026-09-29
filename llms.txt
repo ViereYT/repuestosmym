@@ -6,38 +6,38 @@ Casa de repuestos para camiones en Concepción, Paraguay (HHM8+9V2, Concepción 
 
 ## Páginas principales
 
-- [Inicio](https://viereyt.github.io/repuestosmym/es/): presentación y buscador del catálogo
-- [Quiénes somos](https://viereyt.github.io/repuestosmym/es/empresa/): la empresa, desde 1996, marcas que atiende
-- [Prensado de mangueras hidráulicas en Concepción](https://viereyt.github.io/repuestosmym/es/prensado/): servicio de prensado de mangueras hidráulicas
-- [Contacto](https://viereyt.github.io/repuestosmym/es/contacto/): dirección, mapa, horario, WhatsApp
-- [Preguntas frecuentes](https://viereyt.github.io/repuestosmym/es/preguntas/)
-- [Catálogo por rubros](https://viereyt.github.io/repuestosmym/es/rubros/)
+- [Inicio](https://repuestosmym.com.py/es/): presentación y buscador del catálogo
+- [Quiénes somos](https://repuestosmym.com.py/es/empresa/): la empresa, desde 1996, marcas que atiende
+- [Prensado de mangueras hidráulicas en Concepción](https://repuestosmym.com.py/es/prensado/): servicio de prensado de mangueras hidráulicas
+- [Contacto](https://repuestosmym.com.py/es/contacto/): dirección, mapa, horario, WhatsApp
+- [Preguntas frecuentes](https://repuestosmym.com.py/es/preguntas/)
+- [Catálogo por rubros](https://repuestosmym.com.py/es/rubros/)
 
 ## Rubros del catálogo
 
-- [Motor e inyección](https://viereyt.github.io/repuestosmym/es/rubros/motor/): Juntas, kits de motor, pistones, casquillos, válvulas, turbos, bombas alimentadoras y caños de inyector.
-- [Refrigeración y correas](https://viereyt.github.io/repuestosmym/es/rubros/refrigeracion/): Radiadores, mangueras de radiador, bombas de agua, termostatos y reservorios.
-- [Transmisión y embrague](https://viereyt.github.io/repuestosmym/es/rubros/transmision/): Embrague, cardán, caja de cambios, palancas, palieres y diferencial.
-- [Suspensión y dirección](https://viereyt.github.io/repuestosmym/es/rubros/suspension/): Elásticos, bujes, amortiguadores, grampas, pernos, terminales y barras.
-- [Frenos](https://viereyt.github.io/repuestosmym/es/rubros/frenos/): Pulmones, válvulas, reparos, catracas, tambores, discos y pastillas.
-- [Aire comprimido y válvulas](https://viereyt.github.io/repuestosmym/es/rubros/aire/): Válvulas, compresores y sus reparos, filtros secadores, pulmones de suspensión, uniones y codos.
-- [Ejes, mazas y rulemanes](https://viereyt.github.io/repuestosmym/es/rubros/ejes/): Rulemanes y retenes de maza, prisioneros de rueda, tuercas, tapas de maza y reparos de punta de eje.
-- [Eléctrico e iluminación](https://viereyt.github.io/repuestosmym/es/rubros/electrico/): Faros, focos LED, relés, alternadores, arranques, baterías, sensores y cables.
-- [Cabina y carrocería](https://viereyt.github.io/repuestosmym/es/rubros/cabina/): Espejos, manijas, alza vidrios, guardabarros, tapas, seguros y accesorios.
-- [Escape](https://viereyt.github.io/repuestosmym/es/rubros/escape/): Caños y flexibles de escape, silenciadores, punteras, múltiples, abrazaderas y freno motor.
-- [Filtros y lubricantes](https://viereyt.github.io/repuestosmym/es/rubros/filtros/): Filtros de aire, aceite, combustible, agua e hidráulicos, y aceites.
-- [Mangueras hidráulicas y prensado](https://viereyt.github.io/repuestosmym/es/rubros/mangueras/): Prensado de mangueras hidráulicas a medida, mangueras de aire y de goma, uniones, niples y conexiones.
-- [Bulonería y fijaciones](https://viereyt.github.io/repuestosmym/es/rubros/fijaciones/): Bulones, tuercas, arandelas, seguros, abrazaderas, alemites y remaches.
-- [Carretas y acoplados](https://viereyt.github.io/repuestosmym/es/rubros/carretas/): Mazas, tambores, rulemanes, ejes, patas de apoyo, quinta rueda y luces para carreta.
-- [Herramientas y ferretería](https://viereyt.github.io/repuestosmym/es/rubros/herramientas/): Llaves, destornilladores, pinzas, gatos hidráulicos, saca filtros, engrasadores y electrodos.
-- [Accesorios y varios](https://viereyt.github.io/repuestosmym/es/rubros/accesorios/): Siliconas y selladores, adhesivos, perfumes para cabina, cintas reflectivas, conos y artículos de uso diario.
-- [Otros repuestos](https://viereyt.github.io/repuestosmym/es/rubros/otros/): Artículos que no entran en los demás rubros: infladores, kits, reparos y piezas sueltas.
+- [Motor e inyección](https://repuestosmym.com.py/es/rubros/motor/): Juntas, kits de motor, pistones, casquillos, válvulas, turbos, bombas alimentadoras y caños de inyector.
+- [Refrigeración y correas](https://repuestosmym.com.py/es/rubros/refrigeracion/): Radiadores, mangueras de radiador, bombas de agua, termostatos y reservorios.
+- [Transmisión y embrague](https://repuestosmym.com.py/es/rubros/transmision/): Embrague, cardán, caja de cambios, palancas, palieres y diferencial.
+- [Suspensión y dirección](https://repuestosmym.com.py/es/rubros/suspension/): Elásticos, bujes, amortiguadores, grampas, pernos, terminales y barras.
+- [Frenos](https://repuestosmym.com.py/es/rubros/frenos/): Pulmones, válvulas, reparos, catracas, tambores, discos y pastillas.
+- [Aire comprimido y válvulas](https://repuestosmym.com.py/es/rubros/aire/): Válvulas, compresores y sus reparos, filtros secadores, pulmones de suspensión, uniones y codos.
+- [Ejes, mazas y rulemanes](https://repuestosmym.com.py/es/rubros/ejes/): Rulemanes y retenes de maza, prisioneros de rueda, tuercas, tapas de maza y reparos de punta de eje.
+- [Eléctrico e iluminación](https://repuestosmym.com.py/es/rubros/electrico/): Faros, focos LED, relés, alternadores, arranques, baterías, sensores y cables.
+- [Cabina y carrocería](https://repuestosmym.com.py/es/rubros/cabina/): Espejos, manijas, alza vidrios, guardabarros, tapas, seguros y accesorios.
+- [Escape](https://repuestosmym.com.py/es/rubros/escape/): Caños y flexibles de escape, silenciadores, punteras, múltiples, abrazaderas y freno motor.
+- [Filtros y lubricantes](https://repuestosmym.com.py/es/rubros/filtros/): Filtros de aire, aceite, combustible, agua e hidráulicos, y aceites.
+- [Mangueras hidráulicas y prensado](https://repuestosmym.com.py/es/rubros/mangueras/): Prensado de mangueras hidráulicas a medida, mangueras de aire y de goma, uniones, niples y conexiones.
+- [Bulonería y fijaciones](https://repuestosmym.com.py/es/rubros/fijaciones/): Bulones, tuercas, arandelas, seguros, abrazaderas, alemites y remaches.
+- [Carretas y acoplados](https://repuestosmym.com.py/es/rubros/carretas/): Mazas, tambores, rulemanes, ejes, patas de apoyo, quinta rueda y luces para carreta.
+- [Herramientas y ferretería](https://repuestosmym.com.py/es/rubros/herramientas/): Llaves, destornilladores, pinzas, gatos hidráulicos, saca filtros, engrasadores y electrodos.
+- [Accesorios y varios](https://repuestosmym.com.py/es/rubros/accesorios/): Siliconas y selladores, adhesivos, perfumes para cabina, cintas reflectivas, conos y artículos de uso diario.
+- [Otros repuestos](https://repuestosmym.com.py/es/rubros/otros/): Artículos que no entran en los demás rubros: infladores, kits, reparos y piezas sueltas.
 
 ## Índices
 
-- [Sitemap](https://viereyt.github.io/repuestosmym/sitemap.xml): todas las páginas de artículo, una por código, en /es/articulo/<código>/ y /pt/articulo/<código>/
-- [Catálogo en JSON](https://viereyt.github.io/repuestosmym/catalogo-es.json): pares [código, nombre] de todos los artículos
+- [Sitemap](https://repuestosmym.com.py/sitemap.xml): todas las páginas de artículo, una por código, en /es/articulo/<código>/ y /pt/articulo/<código>/
+- [Catálogo en JSON](https://repuestosmym.com.py/catalogo-es.json): pares [código, nombre] de todos los artículos
 
 ## Em português
 
-- [Início](https://viereyt.github.io/repuestosmym/pt/) · [Catálogo](https://viereyt.github.io/repuestosmym/pt/rubros/) · [Contato](https://viereyt.github.io/repuestosmym/pt/contacto/)
+- [Início](https://repuestosmym.com.py/pt/) · [Catálogo](https://repuestosmym.com.py/pt/rubros/) · [Contato](https://repuestosmym.com.py/pt/contacto/)
