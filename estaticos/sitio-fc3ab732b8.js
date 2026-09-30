@@ -61,3 +61,21 @@ if (p < 1) requestAnimationFrame(paso);
 setTimeout(function(){ requestAnimationFrame(paso); }, 800);
 });
 })();
+(function(){
+var m=document.querySelector('.mapa-toque[data-mapa]');
+if(!m)return;
+var a=m.querySelector('a');
+if(!a)return;
+a.addEventListener('click',function(ev){
+if(ev.ctrlKey||ev.metaKey||ev.shiftKey||ev.button)return;
+ev.preventDefault();
+var f=document.createElement('iframe');
+f.src=m.getAttribute('data-mapa');
+f.title=m.getAttribute('data-titulo')||'Google Maps';
+f.setAttribute('referrerpolicy','no-referrer-when-downgrade');
+f.setAttribute('allowfullscreen','');
+m.innerHTML='';
+m.appendChild(f);
+f.focus();
+});
+})();
